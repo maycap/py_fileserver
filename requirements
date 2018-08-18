@@ -1,0 +1,4 @@
+flask_restful
+flask_script
+sqlalchemy
+gevent
